@@ -13,7 +13,7 @@ public static void main(String[] args) {
     v.add("D");
     v.add("E");
     v.add("F");
-    System.out.println(" Vector contains : " + v);
+    System.out.println(" Vector contains : " + aList);
 
     // Get Enumeration over Vector
     Enumeration<String> e = v.elements();
