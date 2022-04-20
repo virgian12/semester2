@@ -39,7 +39,6 @@ public class Latihan1{
     Iterator it = c.iterator();
     while (it.hasNext()){
       System.out.println(it.next());
-    }
-    
+    }    
   }
 }
